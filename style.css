@@ -1,0 +1,75 @@
+body {
+    background-color: #0B0C10;
+    text-align: center;
+}
+
+header {
+    align-items: center;
+    justify-content: center;
+    font-family: Sans-serif;
+    font-size: 50px;
+}
+
+h1 {
+    color: #ededed;
+}
+#title {
+    margin-bottom: -10px;
+    margin-top: -10px;
+}
+#page {
+    margin-top: -10px;
+    margin-bottom: 7px;
+    font-size: 70px;
+}
+
+h3 {
+    color: #C5C6C7; 
+    font-family: Verdana 
+}
+
+a {
+    color: #C5C6C7; 
+    text-decoration: none;
+}
+
+nav {
+ text-align: center;
+ border:10px solid #45A29E;
+ width: 340px;  
+ height: 60px; 
+ font-size: 60px;
+}
+#home {
+    margin-top: -10px;
+    margin-left: -8px;
+}
+#dates {
+    margin-top: -80px;
+    margin-left: 352px;
+}
+#forms {
+    margin-top: -80px;
+    margin-left: 712px;
+}
+#contact {
+margin-left: 1072px;
+margin-top: -80px;
+}
+
+hr {
+    margin-top: -20px;
+    border: 3px solid #45A29E;
+}
+
+section.discord {
+    text-align: left;
+}
+
+section.discord img {
+    margin-left: 25px;
+}
+
+
+
+
