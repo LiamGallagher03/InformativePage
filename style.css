@@ -4,8 +4,6 @@ body {
 }
 
 header {
-    align-items: center;
-    justify-content: center;
     font-family: Sans-serif;
     font-size: 50px;
 }
@@ -71,6 +69,12 @@ section.discord img {
     margin-left: 25px;
 }
 
+section.key {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
 table {
     width: 100%;
     margin-top: 100px;
@@ -91,4 +95,19 @@ table, th, tr {
     
 }
 
+#scheduled {
+    color: limegreen;
+}
 
+#cancelled {
+    color: red;
+}
+
+#pending {
+    color: yellow;
+}
+
+#archived {
+    color: gray;
+    text-decoration: line-through
+}
